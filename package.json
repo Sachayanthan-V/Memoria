@@ -1,0 +1,30 @@
+{
+  "name": "memoria",
+  "version": "1.0.0",
+  "description": "\"Log, Reflect, Grow\" -> The ultimate logging destination",
+  "main": "index.js",
+  "scripts": {
+    "jarvis-start-dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sachayanthan-V/Memoria.git"
+  },
+  "keywords": [
+    "logger",
+    "log",
+    "loggingwebsite",
+    "memoria",
+    "memoria-sachayanthan",
+    "sachayanthanv",
+    "log",
+    "reflect",
+    "grow"
+  ],
+  "author": "SachayanthanV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sachayanthan-V/Memoria/issues"
+  },
+  "homepage": "https://github.com/Sachayanthan-V/Memoria#readme"
+}
