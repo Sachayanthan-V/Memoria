@@ -1,5 +1,6 @@
 .vscode
-
+/assets/css/*.scss
+/assets/css/*.css.map
 # Logs
 logs
 *.log
